@@ -1,8 +1,8 @@
 /*  Mājas lapas dizains. Оформление сайта:background-color- цвет фона, font- шрифт... 
 https://www.w3schools.com/css/default.asp*/
 body {
-    background-color:rgba(229, 250, 171, 0.712);
-    font-family: "Verdana";
+    background-color:#bcbce1;
+    font-family: "Times New Roman";
     font-size: 13px;
    }
 h1 {
@@ -75,11 +75,11 @@ font-family: Georgia, Arial, Helvetica, sans-serif;
 
 }
  #menu a{
-color:rgb(223, 245, 223);
+color:rgb(184, 233, 245);
 font-size:150%;
  }
 #content {
-background-color:#fdfdb19c;
+background-color:#c9c5e29c;
 width:70%;
 height:800px;
 
